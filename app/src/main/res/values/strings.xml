@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Jose Adrian Gonzalez Garcia</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola, mi nombre es Adrian. Tengo 22 años.\n
+            Me gusta salir en bicicleta a lugares con excelentes vistas, por ejemplo, la presa Solís.
+            Mi familia está compuesta por 6 integrantes, somos 3 hermanos y una hermana, papá y mamá.\n
+            Tengo 2 mascotas, Puchi y Rotwalito, ellos son muy nobles.\n
+            Amo las motocicletas, una de mis metas es conseguir un excelente trabajo donde esté cómodo y feliz,
+            y así poder ahorrar dinero y comprar la motocicleta de mis sueños, una KTM Duke 390.\n
+            Actualmente estoy estudiando la carrera Ing. Sistemas Computacionales, en el ITSUR.
+            Estoy cursando el 7mo semestre.\n
+            Mi mamá es maestra de Telesecundaria, mi papá se dedica a la cría de animales, como conejos,
+            gallinas y borregos. \n
+            Desde niño me fascina la tecnología, cuando tenía 14 años empecé a instalar rooms modificadas
+            a mi primer teléfono con Android, era un LG L5.\n
+            El desarrollo móvil es de mi interés, espero tomarle cariño a la materia de Programación
+            Móvil, porque programar nunca me ha gustado, pero tengo altas expectativas acerca de esta materia.</string>
+    <string name="iv_androide">androide</string>
+</resources>
