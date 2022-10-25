@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/adria/Desktop/Practica_LinearLayout_Prog_Movil_I/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/adria/ITSUR/ProgMovil/AboutMe/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/adria/ITSUR/ProgMovil/Menu Contextual/Practica_LinearLayout_Prog_Movil_I/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.2115" />
+        <entry key="..\:/adria/ITSUR/ProgMovil/Menu Contextual/Practica_LinearLayout_Prog_Movil_I/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/adria/ITSUR/ProgMovil/Menu Contextual/Practica_LinearLayout_Prog_Movil_I/app/src/main/res/menu/menu_contextual_action.xml" value="0.22" />
+        <entry key="..\:/adria/ITSUR/ProgMovil/Menu Contextual/Practica_LinearLayout_Prog_Movil_I/app/src/main/res/menu/menu_contextual_bio.xml" value="0.25" />
+        <entry key="..\:/adria/ITSUR/ProgMovil/Menu Contextual/Practica_LinearLayout_Prog_Movil_I/app/src/main/res/menu/menucontextual1.xml" value="0.203125" />
       </map>
     </option>
   </component>
