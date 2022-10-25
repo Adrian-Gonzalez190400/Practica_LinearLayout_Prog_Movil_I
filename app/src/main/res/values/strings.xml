@@ -19,4 +19,7 @@
     <string name="iv_androide">androide</string>
     <string name="done">Done</string>
     <string name="what_is_your_nickname">¿Cúal es tu nombre?</string>
+    <string name="convertir_a_mayusculas">Convertir a mayusculas</string>
+    <string name="convertir_a_minusculas">Convertir a minusculas</string>
+    <string name="regresar_original">Regresar original</string>
 </resources>

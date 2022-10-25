@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mayusculasBio"
+        android:title="@string/convertir_a_mayusculas" />
+    <item
+        android:id="@+id/minusculasBio"
+        android:title="@string/convertir_a_minusculas" />
+    <item
+        android:id="@+id/originalBio"
+        android:title="@string/regresar_original" />
+
+</menu>
